@@ -146,7 +146,5 @@ We have the following PR labels:
 
 
 We look forward to your contributions! 🎉
-```
 
----
 
