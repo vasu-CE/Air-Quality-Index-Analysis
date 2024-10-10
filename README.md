@@ -89,7 +89,6 @@ Go to your forked repository on GitHub and create a pull request to the main rep
 We welcome your contributions! Please follow these guidelines:
 
 - **Creativity Allowed**: Submit pull requests even if they break the rules—we may merge them anyway!
-- **No Build Steps**: Avoid adding build steps like `npm install` to keep it simple.
 - **Preserve Existing Content**: Don’t remove existing content.
 - **Code Style**: Your code can be neat, messy, or complex—as long as it works!
 - **Add Your Name**: Remember to add your name to the `contributorsList` file.
