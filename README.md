@@ -1,7 +1,4 @@
-Here's a `README.md` file structure with project description, contribution guidelines, and Hacktoberfest labels ready for your GitHub repository:
-
-```markdown
-# Air Quality Index (AQI) Prediction Using Machine Learning
+## Air Quality Index (AQI) Prediction Using Machine Learning
 
 ![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributions%20Welcome-brightgreen)
@@ -35,7 +32,6 @@ The project aims to provide accurate AQI predictions to help authorities and com
 └── CONTRIBUTING.md       # Contribution guidelines
 ```
 
----
 
 ## Getting Started 🤗🚀
 
@@ -148,15 +144,9 @@ We have the following PR labels:
 
 ---
 
-## License 📜
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
 
 We look forward to your contributions! 🎉
 ```
 
 ---
 
-You can now add this to your GitHub repository as the `README.md` file. It includes project details, structure, contribution guidelines, and PR labels.
